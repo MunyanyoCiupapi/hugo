@@ -1,0 +1,4 @@
+baseURL = 'https://munyanyo.github.io/'
+languageCode = 'en-us'
+title = 'Munyanyo Marcin Website'
+theme = 'ananke'
