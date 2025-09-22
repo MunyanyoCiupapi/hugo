@@ -2,3 +2,15 @@ baseURL = 'https://munyanyo.github.io/'
 languageCode = 'en-us'
 title = 'Munyanyo Marcin Website'
 theme = 'ananke'
+
+[menu]
+
+  [[menu.main]]
+    name = "Pagrindinis"
+    url = "/posts/main"
+    weight = 1
+
+  [[menu.main]]
+    name = "Apie"
+    url = "/posts/about/"
+    weight = 2

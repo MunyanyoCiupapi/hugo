@@ -4,10 +4,3 @@ draft = false
 title = 'About'
 +++
 Cia yra Marcino Chmylko tinklalapis sukurtas naudojant hugo. 
-
-
-![Marcino nuotrauka](/images/monkey.jpg)
-
-> "Gimęs džiunglėse, valdau internetą."
->
-> – Bananu mėgėjas
